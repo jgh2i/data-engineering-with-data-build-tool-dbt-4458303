@@ -1,5 +1,0 @@
-lil_nycparkingviolations:
-  outputs:
-   dev:
-     type: duckdb
-  target: dev
